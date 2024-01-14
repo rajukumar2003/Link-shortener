@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.containter{
+    max-width: 800px;
+    margin-block-start: 50px auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+h1{
+    color: #007bff;
+}
+
+.thanks{
+    font-size: 18px;
+    color: #28a745;
+    margin-top: 20px;
+}
